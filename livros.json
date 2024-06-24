@@ -1,0 +1,84 @@
+{
+    "biblioteca": [
+        {
+            "Título": "A vida invisível de Addie LaRue",
+            "Categoria": "Fantasia Contemporânea",
+            "Descrição": "França: 1714. Addie LaRue não queria pertercer a ninguém ou a lugar nenhum. Em um momento de desespero, a jovem faz um pacto: a vida eterna, sob a condição de ser esquecida por quem a conhecer. Um piscar de olhos, e, como um sopro, Addie se vai. Uma virada de costas, e sua existência se dissipa na memória de todos.\\nApós tanto tempo vivendo uma existência deslumbrante, aproveitando a vida de todas as formas, fazendo uso de tantos artifícios quanto fosse possível e viajando pelo tempo e espaço, através dos séculos e continentes, da história e da arte, Addie entende seus limites e descobre ― apesar de fadada ao esquecimento ― até onde é capaz de ir para deixar sua marca no mundo.\\nTrezentos anos depois, em uma livraria, um acontecimento inesperado: Addie LaRue esbarra com um rapaz.\\nEle enuncia cinco palavras.\\n Cinco palavras capazes de colocar a vida que conhecia abaixo:\\nEu me lembro de você.\\nUma jornada inspirada no mito faustiano sobre busca e perda, eternidade e finitude e, acima de tudo, uma questão: até onde se vai para alcançar a liberdade? Best-seller do The New York Times e recomendado pelo Entertainment Weekly , A vida invisível de Addie LaRue é um livro inesquecível e que colocou V.E. Schwab entre as principais autoras de fantasia da atualidade.",
+            "Autor": "V. E. Schwab",
+            "Capa": "CapaLivros/AddieLarue.jpg",
+            "Id" : 1
+        },
+        {
+            "Título": "Suicidas",
+            "Categoria": "Mistério, Suspense, Thriller",
+            "Descrição": "Antes que o mundo pudesse sonhar com o terrível jogo da baleia azul, que leva jovens a tirar a própria vida, ou que a série de televisão Thirteen Reasons Why fosse lançada e se tornasse o sucesso que é hoje, Raphael Montes, então com 22 anos, já tratava do tema do suicídio entre jovens, com a ousadia que virou sua marca registrada.\\\nEm seu primeiro livro, que a Companhia das Letras agora relança acrescido de um novo capítulo, conhecemos a história de Alê e seus colegas, jovens da elite carioca encontrados mortos no porão do sítio de um deles em condições misteriosas que indicam que os nove amigos participaram de um perigoso e fatídico jogo de roleta russa.\\nAos que ficaram, resta tentar descobrir o que teria levado aqueles adolescentes, aparentemente felizes e privilegiados, a tirar a própria vida.",
+            "Autor": "Raphael Montes",
+            "Capa": "CapaLivros/Suicidas.jpg",
+            "Id" : 2
+        },
+        {
+            "Título": "Tudo é rio",
+            "Categoria": "Ficção de Gênero",
+            "Descrição": "Com uma narrativa madura, precisa e ao mesmo tempo delicada e poética, o romance narra a história do casal Dalva e Venâncio, que tem a vida transformada após uma perda trágica, resultado do ciúme doentio do marido, e de Lucy, a prostituta mais depravada e cobiçada da cidade, que entra no caminho deles, formando um triângulo amoroso.\\nNa orelha do livro, Martha Medeiros escreve: “Tudo é rio é uma obra-prima, e não há exagero no que afirmo. É daqueles livros que, ao ser terminado, dá vontade de começar de novo, no mesmo instante, desta vez para se demorar em cada linha, saborear cada frase, deixar-se abraçar pela poesia da prosa. Na primeira leitura, essa entrega mais lenta é quase impossível, pois a correnteza dos acontecimentos nos leva até a última página sem nos dar chance para respirar. É preciso manter-se à tona ou a gente se afoga.”",
+            "Autor": "Carla Madeira",
+            "Capa": "CapaLivros/Tudo.jpg",
+            "Id" : 3
+        },
+        {
+            "Título": "A Biblioteca da Meia-Noite",
+            "Categoria": "",
+            "Descrição": "Aos 35 anos, Nora Seed é uma mulher cheia de talentos e poucas conquistas. Arrependida das escolhas que fez no passado, ela vive se perguntando o que poderia ter acontecido caso tivesse vivido de maneira diferente. Após ser demitida e seu gato ser atropelado, Nora vê pouco sentido em sua existência e decide colocar um ponto final em tudo. Porém, quando se vê na Biblioteca da Meia-Noite, Nora ganha uma oportunidade única de viver todas as vidas que poderia ter vivido.\\nNeste lugar entre a vida e a morte, e graças à ajuda de uma velha amiga, Nora pode, finalmente, se mudar para a Austrália, reatar relacionamentos antigos – ou começar outros –, ser uma estrela do rock, uma glaciologista, uma nadadora olímpica... enfim, as opções são infinitas. Mas será que alguma dessas outras vidas é realmente melhor do que a que ela já tem?\\nEm A Biblioteca da Meia-Noite , Nora Seed se vê exatamente na situação pela qual todos gostaríamos de poder passar: voltar no tempo e desfazer algo de que nos arrependemos. Diante dessa possibilidade, Nora faz um mergulho interior viajando pelos livros da Biblioteca da Meia-Noite até entender o que é verdadeiramente importante na vida e o que faz, de fato, com que ela valha a pena ser vivida.",
+            "Autor": "Matt Haig",
+            "Capa": "CapaLivros/Biblioteca.jpg",
+            "Id" : 4
+        },
+        {
+            "Título": "Os dois morrem no final",
+            "Categoria": "Ficção LGBTQ+ para Jovens Adultos",
+            "Descrição": "No dia 5 de setembro, pouco depois da meia-noite, Mateo Torrez e Rufus Emeterio recebem uma ligação da Central da Morte. A notícia é devastadora: eles vão morrer naquele mesmo dia.\\nOs dois não se conhecem, mas, por motivos diferentes, estão à procura de um amigo com quem compartilhar os últimos momentos, uma conexão verdadeira que ajude a diminuir um pouco a angústia e a solidão que sentem. Por sorte, existe um aplicativo para isso, e é graças a ele que Rufus e Mateo vão se encontrar para uma última grande aventura: viver uma vida inteira em um único dia.\\nUma história sensível e emocionante, Os dois morrem no final nos lembra o que significa estar vivo. Com seu olhar único, Adam Silvera mostra que cada segundo importa, e mesmo que não haja vida sem morte, nem amor sem perda, tudo pode mudar em 24 horas.",
+            "Autor": "Adam Silveira",
+            "Capa": "CapaLivros/OsDois.jpg",
+            "Id" : 5
+        },
+        {
+            "Título": "Os garotos corvos",
+            "Categoria": "Ação e aventura, Fantasia",
+            "Descrição": "Todo ano, na véspera do Dia de São Marcos, Blue Sargent vai com sua mãe clarividente até uma igreja abandonada para ver os espíritos daqueles que vão morrer em breve. Blue nunca consegue vê-los - até este ano, quando um garoto emerge da escuridão e fala diretamente com ela.\\nSeu nome Gansey, e ela logo descobre que ele é um estudante rico da Academia Aglionby, a escola particular da cidade. Mas Blue se impôs uma regra: ficar longe dos garotos da Aglionby. Conhecidos como garotos corvos, eles só podem significar encrenca.\\nGansey tem tudo - dinheiro, boa aparência, amigos leais -, mas deseja muito mais. Ele está em uma missão com outros três garotos corvos: Adam, o aluno pobre que se ressente de toda a riqueza ao seu redor; Ronan, a alma pertubada que varia da raiva ao desespero; e Noah, o observador taciturno, que percebe muitas coisas, mas fala pouco.\\n'Os garotos corvos é uma narrativa incrivelmente rica e única, um thriller sobrenatural de sabor diferente' - School Library Journal",
+            "Autor": "Maggie Stiefvater",
+            "Capa": "CapaLivros/GarotosCorvos.jpg",
+            "Id" : 6
+        },
+        {
+            "Título": "Estilhaça-me",
+            "Categoria": "Fantasia",
+            "Descrição": "Um toque é o bastante. Com apenas um toque, Juliette Ferrars é capaz de fazer um homem adulto se ajoelhar de dor e implorar por misericórdia. Um único toque de Juliette pode matar. Ninguém sabe por que a garota tem um poder tão impressionante, o qual ela acredita ser uma maldição, um fardo que uma pessoa sozinha seria incapaz de carregar. Contudo, o Restabelecimento enxerga essa característica como um dom e passa a vê-la como uma oportunidade – uma oportunidade de usá-la como arma letal. Porém, Juliette tem seus próprios planos.",
+            "Autor": "Tahereh Mafi",
+            "Capa": "CapaLivros/Estilhaçame.jpg",
+            "Id" : 7
+        },
+        {
+            "Título": "Saboroso Cadáver",
+            "Categoria": "Ficção, Horror",
+            "Descrição": "Diz o antigo ditado que “Você é o que você come”. No romance Saboroso Cadáver, de Agustina Bazterrica, esse ditado é levado às últimas consequências. O livro conta a história de um vírus que se espalha entre os animais de todo o planeta e torna sua carne mortal aos humanos. Impossibilitados de utilizar os animais para a alimentação, a sociedade regulariza a criação e a reprodução de seres humanos como animais de abate, transformando o mundo num lugar cinzento, cínico e inóspito. Nesse romance visceral, grotesco, repleto de descrições vívidas e nauseantes capaz de nos alimentar na medida certa, vamos acompanhar a rotina de Marcos Tejo, funcionário do frigorífico Krieg,, que recebe de presente uma mulher viva, considerada “carne de primeira”. Ironicamente, esse funcionário parece ser o mais humano nesse mundo terrível. Seguindo seus passos, presenciamos o processo metódico da criação de pessoas, abates, experimentos de laboratório, caçadas humanas e suntuosos jantares canibais.",
+            "Autor": "Agustina Bazterrica",
+            "Capa": "CapaLivros/Saboroso.jpg",
+            "Id" : 8
+        },
+        {
+            "Título": "The Kiss of Deception (Crônicas de Amor e Ódio)",
+            "Categoria": "Ficção para Jovens Adultos, Romance",
+            "Descrição": "Tudo parecia perfeito, um verdadeiro conto de fadas – menos para a protagonista dessa história. Morrighan é um reino imerso em tradições, histórias e deveres, e a Primeira Filha da Casa Real, uma garota de 17 anos chamada Lia, decidiu fugir de um casamento arranjado que supostamente selaria a paz entre dois reinos através de uma aliança política. O jovem príncipe escolhido se vê então obrigado a atravessar o continente para encontrá-la a qualquer custo. Mas essa se torna também a missão de um temido assassino. Quem a encontrará primeiro?\\nQuando se vê refugiada em um pequeno vilarejo distante – o lugar perfeito para recomeçar – ela procura ser uma pessoa comum, se estabelecendo como garçonete, e escondendo sua vida de realeza.\\nO que Lia não sabe, ao conhecer dois misteriosos rapazes recém-chegados ao vilarejo, é que um deles é o príncipe que fora abandonado e está desesperadamente à sua procura, e o outro, um assassino frio e sedutor enviado para dar um fim à sua breve vida. Lia se encontrará perante traições e segredos que vão desvendar um novo mundo ao seu redor.",
+            "Autor": "Mary E. Person",
+            "Capa": "CapaLivros/TheKiss.jpg",
+            "Id" : 9
+        },
+        {
+            "Título": "Nevernight: A sombra do corvo (Crônicas da Quasinoite)",
+            "Categoria": "Ficção, Fantasia",
+            "Descrição": "Destinada a destruir impérios, Mia Corvere é apenas uma criança quando tem sua primeira lição sobre a morte. Mais tarde, aos 16 anos, a jovem que cresceu nas sombras inicia sua jornada para manter a promessa feita no dia em que perdeu tudo. Entretanto, a chance de vencer inimigos tão poderosos será efêmera, e se Mia deseja vingança, deve se tornar uma assassina sem igual. Assim, ela precisará provar suas habilidades diante dos mais perigosos amigos e inimigos, e sobreviver a assassinos, mentirosos e demônios no cerne de um lugar que cultua o assassinato. A Igreja Vermelha não é uma escola comum, mas Mia Corvere também não é uma estudante qualquer. As sombras a acompanham, e bebem todo seu medo.\\nNevernight é o primeiro volume da trilogia best-seller As crônicas da quasinoite, agora em sua segunda edição.",
+            "Autor": "Jay Kristoff",
+            "Capa": "CapaLivros/Nevernigth.jpg",
+            "Id" : 10
+        }       
+    ]
+}

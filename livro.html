@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=League+Script&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <title>Biblioteca</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <h1>Biblioteca</h1>
+            </ul>
+        </nav>
+    </header>
+
+    <div id="abaLivro" onload="consultarLivro()">
+
+        <div class="conteudo">
+
+            <img id="capa" class="capa" src="" alt="">
+
+            <strong>
+                <p class="msg">Título: </p>
+            </strong>
+            <p id="titulo">Titulo</p><br>
+
+            <strong>
+                <p class="msg">Autor: </p>
+            </strong>
+            <p id="autor">Autor</p><br>
+
+            <strong>
+                <p class="msg">Categoria: </p>
+            </strong>
+            <p id="categoria">Categoria</p><br>
+
+            <strong>
+                <p class="msg">Descrição: </p>
+            </strong>
+            <p id="desc">Descrição</p><br>
+
+        </div>
+
+        <button onclick="voltar()" id="voltar">VOLTAR</button>
+
+    </div>
+
+    <script src="./script.js">
+    </script>
+</body>
+
+</html>

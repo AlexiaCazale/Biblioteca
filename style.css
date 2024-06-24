@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('./IMG/Wallpaper.avif');
+    object-fit: cover;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: "Love Ya Like A Sister", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+
+h2,
+h3 {
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: "League Script", cursive;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 40px;
+}
+
+img {
+    width: 200px;
+    height: 290px;
+    margin: 15px;
+    display: ruby;
+}
+
+nav {
+    background-color: rgb(13, 13, 13);
+    padding: 20px;
+}
+
+#livraria {
+    display: ruby;
+}
+
+#abaLivro {
+    background: rgb(13, 13, 13);
+    width: 1000px;
+    height: 600px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.377);
+}
+
+.conteudo{
+    display: flow-root;
+    padding: 10px;
+}
+
+p {
+    color: white !important;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.msg {
+    font-family: "Love Ya Like A Sister", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.capa{
+    float: left;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+#voltar{
+    font-size: 20px;
+    font-family: "Love Ya Like A Sister", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #c63637;
+    border-radius: 3px;
+    /* border-color: none; */
+    padding: 5px;
+    float: left;
+    margin-left: 10px;
+}
